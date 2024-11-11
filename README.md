@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Efe Comu!
 🎓 Master of Science in Business Analytics (MSBA) Candidate
+
 Goizueta Business School, Emory University
+
 🏆 Full Academic Scholarship Recipient
 
 🌐 [LinkedIn](https://www.linkedin.com/in/efe-comu-a6a837210/)
