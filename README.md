@@ -13,18 +13,26 @@ I’m a data scientist and analytics professional with a background in Internati
 
 ## 🔧 Technical Skills
 Analytics Tools: Excel, Tableau, Bloomberg Terminal, Git
+
 Programming Languages: Advanced in Java, Python, R, SQL | Intermediate in C
 
 ## 🧩 Some Projects & Repositories
 1. Data Loading and Warehouse Management
+
 A comprehensive project utilizing Python and SQL to build, load, and manage a data warehouse. Demonstrated skills in ETL processes, schema design, and data integration.
+
 2. Introduction to Business Analytics Assignments
+
 A collection of assignments from my Intro to Business Analytics course, showcasing data preprocessing, model building, and visualization techniques in Python.
+
 3. Data Visualization Projects
+
 Includes two major visualization projects:
 Energy Trend Visualization: Recreating and improving a New York Times graph on electricity changes by country.
 Wine Analysis: Visualizing relationships within red and white wine datasets, providing insights into quality determinants.
+
 4. Navigator: NBA Sports Predictive Model
+
 Developed a decision support system for NBA teams, using real-time data integration and predictive modeling. Implemented in Python with Decision Tree algorithms and a JavaScript-based frontend for interactive visualizations.
 
 ## 📈 Goals
