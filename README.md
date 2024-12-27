@@ -12,9 +12,15 @@ Goizueta Business School, Emory University
 I’m a data scientist and analytics professional with a background in International Business, Computer Science, and Data Analytics. With experience in financial analysis, strategic planning, and machine learning, I'm driven by the potential of data to optimize decision-making and create impactful solutions across industries. I'm also a student-athlete, bringing a competitive edge and a commitment to excellence in everything I undertake.
 
 ## 🔧 Technical Skills
-Analytics Tools: Excel, Tableau, Bloomberg Terminal, Git
+Analytics Tools: Excel, Tableau, Bloomberg Terminal, Databricks, Git
 
 Programming Languages: Advanced in Java, Python, R, SQL | Intermediate in C
+
+Machine Learning & Data Science: Logistic Regression, Decision Trees, Random Forests, k-NN, Gradient Boosting, Neural Networks, Dimensionality Reduction (PCA), Hyperparameter Tuning, Time Series Forecasting
+
+Big Data Technologies: MySQL, Spark, Hive, AWS (DynamoDB, RDS), Hadoop
+
+Other Technical Skills: ETL processes, Data Warehousing, Statistical Modeling, Optimization Models, Financial Modeling, A/B Testing
 
 ## 🧩 Some Projects & Repositories
 1. Data Loading and Warehouse Management
