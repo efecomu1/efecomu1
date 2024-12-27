@@ -9,7 +9,7 @@ Goizueta Business School, Emory University
 📧 ecomu@emory.edu
 
 ## About Me
-I’m a data scientist and analytics professional with a background in International Business, Computer Science, and Data Analytics. With experience in financial analysis, strategic planning, and machine learning, I'm driven by the potential of data to optimize decision-making and create impactful solutions across industries. I'm also a former student-athlete, bringing a competitive edge and a commitment to excellence in everything I undertake.
+I’m a data scientist and analytics professional with a background in International Business, Computer Science, and Data Analytics. With experience in financial analysis, strategic planning, and machine learning, I'm driven by the potential of data to optimize decision-making and create impactful solutions across industries. I'm also a student-athlete, bringing a competitive edge and a commitment to excellence in everything I undertake.
 
 ## 🔧 Technical Skills
 Analytics Tools: Excel, Tableau, Bloomberg Terminal, Git
