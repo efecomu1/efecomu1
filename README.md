@@ -42,7 +42,7 @@ Built a full data pipeline to load and manage a warehouse using Python and SQL. 
 ### 📊 [Introduction to Business Analytics Assignments](https://github.com/efecomu1/Introduction-to-Business-Analytics-Assignments)
 A collection of Python-based assignments covering core topics in data science, including data preprocessing, model building (linear regression, k-NN), and visualizations using libraries like matplotlib and seaborn.
 
-### 🏀 [Navigator: NBA Sports Predictive Model]
+### 🏀 [Navigator: NBA Sports Predictive Model](https://github.com/efecomu1/CMS-484-CS_Capstone)
 Computer Science Capstone (Rollins College)
 Developed a decision support system for NBA teams using real-time data integration and predictive modeling. Implemented with Python backend and JavaScript-based frontend visualizations. Achieved 72.4% accuracy in team performance predictions.
 
