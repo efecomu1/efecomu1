@@ -36,10 +36,10 @@ Evaluated the national-level effect of a Google PMAX campaign using Lasso regres
 ### ⚾ [Atlanta Braves Ticket Demand Forecasting](https://github.com/efecomu1/atlanta-braves-ticket-forecasting)
 Forecasted ticket sales for the Atlanta Braves using XGBoost. Modeled game-level demand based on opponent strength, date, weekday, and playoff odds to support pricing and promotion decisions for the 2024 MLB season.
 
-### 🏗️ [Data Loading and Warehouse Management]
+### 🏗️ [Data Loading and Warehouse Management](https://github.com/efecomu1/Data-Loading-and-Warehouse-Management)
 Built a full data pipeline to load and manage a warehouse using Python and SQL. Designed a star schema, automated flat file ingestion, and integrated stock price, tweet sentiment, and mobility trend data for reporting.
 
-### 📊 [Introduction to Business Analytics Assignments]
+### 📊 [Introduction to Business Analytics Assignments](https://github.com/efecomu1/Introduction-to-Business-Analytics-Assignments)
 A collection of Python-based assignments covering core topics in data science, including data preprocessing, model building (linear regression, k-NN), and visualizations using libraries like matplotlib and seaborn.
 
 ### 🏀 [Navigator: NBA Sports Predictive Model]
